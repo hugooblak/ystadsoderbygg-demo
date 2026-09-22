@@ -18,7 +18,7 @@ return array(
 		array( 'Använde Ystad Söderbygg AB för byte av innerdörr och karm. Vi är supernöjda, fixades snabbt, i tid och inget "skräp" lämnades kvar.', 'Mia Smedberg', 'för 5 år sedan' ),
 		array( 'Mycket duktig personal och till väldigt bra pengar!', 'hampus Wahlgren', 'för 4 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg' ),
+	'bild_hero'      => 'foto-2.jpg',
+	'bilder'         => array( 'foto-3.jpg' ),
 	'ar_riktig'      => true,
 );
