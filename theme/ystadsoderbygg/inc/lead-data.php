@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Ystad Söderbygg AB',
+	'bransch'        => 'Byggfirma',
 	'telefon'        => '070-487 06 96',
 	'telefon_tel'    => '+46704870696',
 	'ort'            => 'Ystad',
